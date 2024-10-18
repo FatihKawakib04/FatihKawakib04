@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FatihKawakib04
+- 👋 Hi, I’m Kawakib
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning informatics management
 - 💞️ I’m looking to collaborate on open-source projects, particularly those related to web development using JavaScript and React
