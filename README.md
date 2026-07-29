@@ -57,10 +57,18 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 GitHub Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FatihKawakib04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="FatihKawakib04 GitHub Stats" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FatihKawakib04&theme=tokyonight&no-bg=true&no-frame=true&column=6" alt="FatihKawakib04 Trophies" />
+</div>
+
+---
+
+## 📊 GitHub All-Time Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FatihKawakib04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="FatihKawakib04 GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihKawakib04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </div>
 
@@ -68,6 +76,12 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatihKawakib04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FatihKawakib04&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 ---
