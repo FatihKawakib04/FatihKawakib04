@@ -20,7 +20,7 @@
 
 ## 💫 About Me
 
-- 🎓 **Education**: Graduated from **IPB University** — **D4 Software Engineering Technology** (*Teknologi Rekayasa Perangkat Lunak*) | **GPA: 3.80 / 4.00**
+- 🎓 **Education**: Graduated from **IPB University** - **D4 Software Engineering Technology** (*Teknologi Rekayasa Perangkat Lunak*) | **GPA: 3.80 / 4.00**
 - 🔭 **Current Focus**: System Analysis, Software Testing (Black Box & UAT), Relational Database Architecture & Fullstack Development
 - 💼 **Experience**: Former Fullstack & System Analyst Intern at **BRMP Biogen** (Balai Besar Perakitan dan Modernisasi Bioteknologi)
 - 🏆 **Achievements**: 1st Winner of UI/UX Competition GETEKSI 2024, 1st Winner INVFEST Mobile Apps 2023
